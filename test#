@@ -1,0 +1,4 @@
+npx create-expo-app Dealio
+
+cd Dealio
+npx expo start
