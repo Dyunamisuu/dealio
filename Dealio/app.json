@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Dealio",
-    "slug": "Dealio",
+    "name": "dealio",
+    "slug": "dealio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
